@@ -1,4 +1,4 @@
 # CardioAnalisi
 ```csharp
-strgin cardio = "cardioanalisi";
+string cardio = "cardioanalisi";
 ```
