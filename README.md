@@ -2,7 +2,7 @@
 ```csharp
 public GruppoAssiurd 
 {
-  static void CardioAnalisi()
+  private static void CardioAnalisi()
   {
     Console.WriteLine("-_-");
   }
