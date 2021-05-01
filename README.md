@@ -1,4 +1,10 @@
 # CardioAnalisi
 ```csharp
-string cardio = "cardioanalisi";
+public GruppoAssiurd 
+{
+  static void CardioAnalisi()
+  {
+    Console.WriteLine("-_-");
+  }
+}
 ```
